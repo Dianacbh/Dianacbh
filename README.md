@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dianacbh
-- 👀 I’m interested in la progrmación de frontend y backend
-- 🌱 I’m currently learning a programar.
+- 👀 I’m interested in la programación with Java
+- 🌱 I’m currently learning a programar 
 - 💞️
 - 📫 How to reach me  a traves de mi correo, dianabasabe2503@gmail.
 
